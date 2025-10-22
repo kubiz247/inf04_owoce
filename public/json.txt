@@ -1,0 +1,9 @@
+{id:1,typ:"gruszka",odmiana:"pospolita",grafika:"Pospolita",opis:"Najczęściej występująca gruszka w Polsce", sztuk:21, cena:7.55}
+{id:2,typ:"gruszka",odmiana:"Radana",grafika:"Radaba",opis:"odmiana uprawna (kultywar) gruszy należąca do grupy grusz zachodnich otrzymanych w Czechach", sztuk:12, cena:6.50}
+{id:3,typ:"gruszka",odmiana:"Concorde",grafika:"Concorde",opis:"Duże o kształcie butelkowatym, wydłużone. Zbliżone wyglądem do owoców Konferencji, lecz bardziej pękate", sztuk:11, cena:4.50}
+{id:4,typ:"jabłko",odmiana:"Antonówka",grafika:"Antonowka",opis:"Średniej wielkości, o zmiennym kształcie najczęściej kulistym lub nieco wydłużonym, niesymetryczne", sztuk:12, cena:4.50}
+{id:5,typ:"jabłko",odmiana:"Gala",grafika:"Gala",opis:"Średniej wielkości, o zmiennym kształcie najczęściej kulistym lub nieco wydłużonym, niesymetryczne", sztuk:8, cena:6.33}
+{id:6,typ:"jabłko",odmiana:"Jonagold",grafika:"Jonagold",opis:"Duże lub bardzo duże, stożkowato-kuliste, czasem nieregularne, przy kielichu lekko żebrowane", sztuk:21, cena:3.56}
+{id:7,typ:"jabłko",odmiana:"Ligol",grafika:"Ligol",opis:"Duże lub bardzo duże kształtu kulisto-stożkowatego", sztuk:11, cena:4.32}
+{id:8,typ:"śliwka",odmiana:"Domowa",grafika:"Domowa",opis:"odmiany o pestkach łatwo odchodzących od miąższu owocu", sztuk:21, cena:7.49}
+{id:9,typ:"śliwka",odmiana:"Kalifornijska",grafika:"Kalifornijska",opis:"Granatowe, wydłużone, przy szypułce zwężone, czasem elipsoidalne lub jajowate, miąższ zwięzły, aromatyczny, winnosłodki, dobrze odchodzi od pestki", sztuk:13, cena:9.43}
